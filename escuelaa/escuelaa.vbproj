@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4C06F741-96B5-436B-BBF0-9BA1A04495A6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>escuelaa.My.MyApplication</StartupObject>
+    <RootNamespace>escuelaa</RootNamespace>
+    <AssemblyName>escuelaa</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>escuelaa.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>escuelaa.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Inicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.vb">
+      <DependentUpon>Inicio.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alumnos.Designer.vb">
+      <DependentUpon>Alumnos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Alumnos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profesores.Designer.vb">
+      <DependentUpon>Profesores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Profesores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inscripcion_Cuotas.Designer.vb">
+      <DependentUpon>Inscripcion_Cuotas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Inscripcion_Cuotas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cargar_Calificaciones.Designer.vb">
+      <DependentUpon>Cargar_Calificaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cargar_Calificaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cargar_Inasistencia.Designer.vb">
+      <DependentUpon>Cargar_Inasistencia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cargar_Inasistencia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Institucional.Designer.vb">
+      <DependentUpon>Institucional.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Institucional.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alumno_Nuevo.Designer.vb">
+      <DependentUpon>Alumno_Nuevo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Alumno_Nuevo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cursos.Designer.vb">
+      <DependentUpon>Cursos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cursos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Materias.Designer.vb">
+      <DependentUpon>Materias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Materias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alumnos.resx">
+      <DependentUpon>Alumnos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profesores.resx">
+      <DependentUpon>Profesores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inscripcion_Cuotas.resx">
+      <DependentUpon>Inscripcion_Cuotas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cargar_Calificaciones.resx">
+      <DependentUpon>Cargar_Calificaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cargar_Inasistencia.resx">
+      <DependentUpon>Cargar_Inasistencia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Institucional.resx">
+      <DependentUpon>Institucional.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alumno_Nuevo.resx">
+      <DependentUpon>Alumno_Nuevo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cursos.resx">
+      <DependentUpon>Cursos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Materias.resx">
+      <DependentUpon>Materias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus_circle_icon-icons.com_66720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus_circle_icon-icons_opt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\searchcircularbutton_79274.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aceptar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aceptar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menos1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aceptar11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reporte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reporte1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imprimir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\impresora.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reporte11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mas1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menos2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mas2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lapiz-en-bosquejo-en-boton-circular.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editar %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edddd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mas3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\002-herramienta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\atras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SALIR1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\perfil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\008-perfil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\perfil grande.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\005-padnote.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\003-ajustes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\007-estadisticas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aceptar12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aceptar13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SALIR11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\001-internet.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

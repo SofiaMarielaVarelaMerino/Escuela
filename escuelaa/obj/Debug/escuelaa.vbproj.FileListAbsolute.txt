@@ -1,0 +1,57 @@
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_inicio.resources
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_alumnos.resources
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_profesores.resources
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_cargar_calificaciones.resources
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_cargar_inasistencias.resources
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_institucional.resources
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_cursos.resources
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_materias.resources
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.Resources.resources
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.vbproj.GenerateResource.Cache
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\bin\Debug\escuelaa.exe.config
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\bin\Debug\escuelaa.exe
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\bin\Debug\escuelaa.pdb
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\bin\Debug\escuelaa.xml
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.exe
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.xml
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.pdb
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_alumnos_inscripcion_cuotas.resources
+C:\Users\sofiv\Google Drive\FACULTAD\3er AÑO\PAV I\PAVEANDO2017\ESCUELA\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_alumnos_nuevo.resources
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\bin\Debug\escuelaa.exe.config
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.exe
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.xml
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.pdb
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\bin\Debug\escuelaa.exe
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\bin\Debug\escuelaa.pdb
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\bin\Debug\escuelaa.xml
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_inicio.resources
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_alumnos.resources
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_profesores.resources
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_alumnos_inscripcion_cuotas.resources
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_cargar_calificaciones.resources
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_cargar_inasistencias.resources
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_institucional.resources
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_alumnos_nuevo.resources
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_cursos.resources
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.frm_materias.resources
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.Resources.resources
+D:\Descargas\proyecto_VisualBasic_Escuela\escuelaa\obj\Debug\escuelaa.vbproj.GenerateResource.Cache
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\bin\Debug\escuelaa.exe.config
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\obj\Debug\escuelaa.xml
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\obj\Debug\escuelaa.pdb
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\obj\Debug\escuelaa.frm_inicio.resources
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\obj\Debug\escuelaa.frm_alumnos.resources
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\obj\Debug\escuelaa.frm_profesores.resources
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\obj\Debug\escuelaa.frm_alumnos_inscripcion_cuotas.resources
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\obj\Debug\escuelaa.frm_cargar_calificaciones.resources
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\obj\Debug\escuelaa.frm_cargar_inasistencias.resources
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\obj\Debug\escuelaa.frm_institucional.resources
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\obj\Debug\escuelaa.frm_alumnos_nuevo.resources
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\obj\Debug\escuelaa.frm_cursos.resources
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\obj\Debug\escuelaa.frm_materias.resources
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\obj\Debug\escuelaa.Resources.resources
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\obj\Debug\escuelaa.vbproj.GenerateResource.Cache
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\bin\Debug\escuelaa.exe
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\bin\Debug\escuelaa.pdb
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\bin\Debug\escuelaa.xml
+D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\obj\Debug\escuelaa.exe
