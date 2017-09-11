@@ -55,3 +55,7 @@ D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\bin\Debug\escuelaa.exe
 D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\bin\Debug\escuelaa.pdb
 D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\bin\Debug\escuelaa.xml
 D:\Descargas\proyecto_VisualBasic_eeeeeee\escuelaa\obj\Debug\escuelaa.exe
+C:\Users\sofiv\Source\Repos\Escuela\escuelaa\bin\Debug\escuelaa.exe.config
+C:\Users\sofiv\Source\Repos\Escuela\escuelaa\obj\Debug\escuelaa.exe
+C:\Users\sofiv\Source\Repos\Escuela\escuelaa\obj\Debug\escuelaa.xml
+C:\Users\sofiv\Source\Repos\Escuela\escuelaa\obj\Debug\escuelaa.pdb
