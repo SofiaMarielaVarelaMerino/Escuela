@@ -167,9 +167,9 @@ Partial Class frm_cursos
         Me.pl_cursos_nuevo.Controls.Add(Me.bt_cursos_aceptar)
         Me.pl_cursos_nuevo.Controls.Add(Me.bt_cursos_cancelar)
         Me.pl_cursos_nuevo.Enabled = False
-        Me.pl_cursos_nuevo.Location = New System.Drawing.Point(661, 64)
+        Me.pl_cursos_nuevo.Location = New System.Drawing.Point(660, 64)
         Me.pl_cursos_nuevo.Name = "pl_cursos_nuevo"
-        Me.pl_cursos_nuevo.Size = New System.Drawing.Size(608, 281)
+        Me.pl_cursos_nuevo.Size = New System.Drawing.Size(609, 281)
         Me.pl_cursos_nuevo.TabIndex = 20
         '
         'txt_cursos_nuevo_codigo
@@ -195,7 +195,7 @@ Partial Class frm_cursos
         '
         Me.cmb_cursos_nuevo_division.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cmb_cursos_nuevo_division.FormattingEnabled = True
-        Me.cmb_cursos_nuevo_division.Location = New System.Drawing.Point(250, 132)
+        Me.cmb_cursos_nuevo_division.Location = New System.Drawing.Point(250, 127)
         Me.cmb_cursos_nuevo_division.Name = "cmb_cursos_nuevo_division"
         Me.cmb_cursos_nuevo_division.Size = New System.Drawing.Size(190, 24)
         Me.cmb_cursos_nuevo_division.TabIndex = 25
@@ -214,7 +214,7 @@ Partial Class frm_cursos
         '
         Me.cmb_cursos_nuevo_nivel.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cmb_cursos_nuevo_nivel.FormattingEnabled = True
-        Me.cmb_cursos_nuevo_nivel.Location = New System.Drawing.Point(250, 78)
+        Me.cmb_cursos_nuevo_nivel.Location = New System.Drawing.Point(250, 73)
         Me.cmb_cursos_nuevo_nivel.Name = "cmb_cursos_nuevo_nivel"
         Me.cmb_cursos_nuevo_nivel.Size = New System.Drawing.Size(190, 24)
         Me.cmb_cursos_nuevo_nivel.TabIndex = 21
@@ -236,7 +236,7 @@ Partial Class frm_cursos
         Me.bt_cursos_aceptar.Font = New System.Drawing.Font("Calibri", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.bt_cursos_aceptar.Image = Global.escuelaa.My.Resources.Resources.aceptar11
         Me.bt_cursos_aceptar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.bt_cursos_aceptar.Location = New System.Drawing.Point(324, 208)
+        Me.bt_cursos_aceptar.Location = New System.Drawing.Point(303, 208)
         Me.bt_cursos_aceptar.Name = "bt_cursos_aceptar"
         Me.bt_cursos_aceptar.Size = New System.Drawing.Size(116, 45)
         Me.bt_cursos_aceptar.TabIndex = 18
@@ -298,7 +298,7 @@ Partial Class frm_cursos
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1320, 666)
+        Me.ClientSize = New System.Drawing.Size(1020, 573)
         Me.Controls.Add(Me.bt_cursos_salir)
         Me.Controls.Add(Me.pl_cursos_nuevo)
         Me.Controls.Add(Me.bt_cursos_eliminar)
